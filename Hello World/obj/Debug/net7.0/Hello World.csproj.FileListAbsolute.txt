@@ -1,0 +1,14 @@
+/Users/lisa/Documents/code/csharp/hello_world/Hello World/bin/Debug/net7.0/Hello World
+/Users/lisa/Documents/code/csharp/hello_world/Hello World/bin/Debug/net7.0/Hello World.deps.json
+/Users/lisa/Documents/code/csharp/hello_world/Hello World/bin/Debug/net7.0/Hello World.runtimeconfig.json
+/Users/lisa/Documents/code/csharp/hello_world/Hello World/bin/Debug/net7.0/Hello World.dll
+/Users/lisa/Documents/code/csharp/hello_world/Hello World/bin/Debug/net7.0/Hello World.pdb
+/Users/lisa/Documents/code/csharp/hello_world/Hello World/obj/Debug/net7.0/Hello World.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lisa/Documents/code/csharp/hello_world/Hello World/obj/Debug/net7.0/Hello World.AssemblyInfoInputs.cache
+/Users/lisa/Documents/code/csharp/hello_world/Hello World/obj/Debug/net7.0/Hello World.AssemblyInfo.cs
+/Users/lisa/Documents/code/csharp/hello_world/Hello World/obj/Debug/net7.0/Hello World.csproj.CoreCompileInputs.cache
+/Users/lisa/Documents/code/csharp/hello_world/Hello World/obj/Debug/net7.0/Hello World.dll
+/Users/lisa/Documents/code/csharp/hello_world/Hello World/obj/Debug/net7.0/refint/Hello World.dll
+/Users/lisa/Documents/code/csharp/hello_world/Hello World/obj/Debug/net7.0/Hello World.pdb
+/Users/lisa/Documents/code/csharp/hello_world/Hello World/obj/Debug/net7.0/Hello World.genruntimeconfig.cache
+/Users/lisa/Documents/code/csharp/hello_world/Hello World/obj/Debug/net7.0/ref/Hello World.dll
